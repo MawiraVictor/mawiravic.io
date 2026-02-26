@@ -1,0 +1,68 @@
+﻿/* ===== COMPLETELY CLEAN BLACK BACKGROUND ===== */
+
+/* Force pure black background everywhere */
+html.dark body,
+html.dark,
+html.dark * {
+    background-color: #000000 !important;
+}
+
+/* Remove any pseudo-elements that might be adding stuff */
+html.dark *::before,
+html.dark *::after {
+    display: none !important;
+    content: none !important;
+}
+
+/* Remove any background images or gradients */
+html.dark * {
+    background-image: none !important;
+    background: #000000 !important;
+}
+
+/* Ensure cards are visible but still on black */
+html.dark .bg-bg-secondary-dark {
+    background-color: #111111 !important;
+}
+
+html.dark .project-card,
+html.dark .experience-item,
+html.dark .contact-link,
+html.dark .tech-item {
+    background-color: #111111 !important;
+    border-color: #222222 !important;
+}
+
+/* Text contrast */
+html.dark .text-text-primary-dark {
+    color: #ffffff !important;
+}
+
+html.dark .text-text-secondary-dark {
+    color: #cccccc !important;
+}
+
+/* Remove any animations */
+html.dark * {
+    animation: none !important;
+    transition: none !important;
+}
+
+/* Remove any box shadows that might look like background */
+html.dark * {
+    box-shadow: none !important;
+}
+
+/* Absolutely nothing in background */
+html.dark body {
+    position: static !important;
+    overflow: visible !important;
+}
+
+/* Kill any fixed position elements that might be floating */
+html.dark div[style*="fixed"],
+html.dark div[class*="fixed"],
+html.dark div[style*="absolute"],
+html.dark div[class*="absolute"] {
+    display: none !important;
+}

@@ -1,0 +1,43 @@
+{
+  "blogs": [
+    {
+      "title": "Damn Vulnerable Web Application (DVWA): A Beginner's Guide to Web Security Testing",
+      "date": "February 26, 2026",
+      "summary": "A comprehensive guide to setting up and using DVWA for learning web application security testing and ethical hacking techniques. Perfect for beginners in cybersecurity.",
+      "tags": ["Security", "Penetration Testing", "DVWA", "Web Security", "Ethical Hacking"],
+      "link": "https://medium.com/@vickmawira66/damn-vulnerable-web-application-dvwa-setup-on-local-machine-4d773a562a23"
+    },
+    {
+      "title": "Understanding SQL Injection: A Practical Guide",
+      "date": "Comming Soon",
+      "summary": "Deep dive into SQL injection vulnerabilities, how they work, and how to prevent them in your applications.",
+      "tags": ["SQL", "Security", "Database", "Injection"],
+      "link": "https://medium.com/@vickmawira66",
+      "image": "/images/blogs/sql-injection.jpg"
+    },
+    {
+      "title": "Network Security Basics Every Student Should Know",
+      "date": "Comming Soon",
+      "summary": "Essential network security concepts for computer science students, including firewalls, IDS/IPS, and secure protocols.",
+      "tags": ["Networking", "Security", "Basics"],
+      "link": "https://medium.com/@vickmawira66",
+      "image": "/images/blogs/network-security.jpg"
+    },
+    {
+      "title": "Getting Started with Wireshark for Network Analysis",
+      "date": "Comming Soon",
+      "summary": "Learn how to use Wireshark to capture and analyze network traffic, identify issues, and spot security threats.",
+      "tags": ["Wireshark", "Networking", "Analysis"],
+      "link": "https://medium.com/@vickmawira66",
+      "image": "/images/blogs/wireshark.jpg"
+    },
+    {
+      "title": "Ethical Hacking: Where to Start in 2026",
+      "date": "Comming Soon",
+      "summary": "A roadmap for aspiring ethical hackers, including recommended certifications, labs, and learning resources.",
+      "tags": ["Ethical Hacking", "Career", "Certifications"],
+      "link": "https://medium.com/@vickmawira66",
+      "image": "/images/blogs/ethical-hacking.jpg"
+    }
+  ]
+}

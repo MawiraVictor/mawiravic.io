@@ -1,0 +1,73 @@
+{
+  "experience": [
+    {
+      "company": "University Cybersecurity Lab",
+      "role": "Student Researcher",
+      "period": "Sep 2025 - Present",
+      "description": "Hands-on security research and network analysis in university lab environment.",
+      "responsibilities": [
+        "Configured virtual network environments to test security vulnerabilities",
+        "Analyzed network traffic using Wireshark to identify potential threats",
+        "Documented security findings and presented to lab group"
+      ],
+      "technologies": ["Wireshark", "Kali Linux", "VirtualBox", "Nmap"],
+      "company_link": "https://strathmore.edu"
+    },
+    {
+      "company": "SecureChatApp",
+      "role": "Independent Developer",
+      "period": "Nov 2024 - Present",
+      "description": "Building an end-to-end encrypted messaging application from scratch.",
+      "responsibilities": [
+        "Implemented RSA and AES-256 encryption for secure message transmission",
+        "Designed database schema for user credentials and encrypted message storage",
+        "Developed real-time communication using Python socket programming",
+        "Conducted security testing to identify and fix vulnerabilities"
+      ],
+      "technologies": ["Python", "Cryptography", "SQL", "Socket Programming", "bcrypt"],
+      "company_link": "https://github.com/MawiraVictor/SecureChatApp"
+    },
+    {
+      "company": "CTF Team",
+      "role": "Competitor & Security Enthusiast",
+      "period": "Sep 2024 - Present",
+      "description": "Participate in Capture The Flag competitions to practice real-world security skills.",
+      "responsibilities": [
+        "Solved challenges in web exploitation, cryptography, and network forensics",
+        "Collaborated with team members on complex problems during 24-hour competitions",
+        "Created practice challenges for new team members",
+        "Placed in top 20% in regional university CTF"
+      ],
+      "technologies": ["Burp Suite", "Wireshark", "John the Ripper", "Metasploit"],
+      "company_link": "https://ctftime.org/team"
+    },
+    {
+      "company": "Home Lab",
+      "role": "Self-Directed Learner",
+      "period": "Jun 2024 - Present",
+      "description": "Created personal lab environment to practice networking and security concepts.",
+      "responsibilities": [
+        "Set up virtual machines with vulnerable applications (DVWA, Metasploitable)",
+        "Configured pfSense firewall and monitored network traffic",
+        "Practiced penetration testing techniques in isolated environment",
+        "Documented learning progress and created study notes for peers"
+      ],
+      "technologies": ["VirtualBox", "Kali Linux", "DVWA", "SNMP - Nagios","Wireshark"],
+      "company_link": "https://github.com/MawiraVictor/homelab"
+    },
+    {
+      "company": "Cisco Networking Academy",
+      "role": "Student",
+      "period": "Sep 2025 - Present",
+      "description": "Completed multiple Cisco certification courses as part of degree program.",
+      "responsibilities": [
+        "CCNA: Introduction to Networks - Routing, switching, and network protocols",
+        "Network Defense - Firewalls, IDS/IPS implementation",
+        "Cyber Threat Management - Risk assessment and incident response",
+        "Networking Devices and Initial Configuration"
+      ],
+      "technologies": ["Cisco IOS", "Routing Protocols", "VLANs", "ACLs", "VPNs"],
+      "company_link": "https://www.netacad.com"
+    }
+  ]
+}

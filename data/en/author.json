@@ -1,0 +1,62 @@
+{
+  "certifications": [
+    {
+      "title": "CCNA: Introduction to Networks",
+      "date": "Sep 10, 2025",
+      "url": "https://www.credly.com/badges/91f12221-89ca-4a3a-8ba3-4c84146b7145"
+    },
+    {
+      "title": "Introduction to Cybersecurity",
+      "date": "Jan 05, 2026",
+      "url": "https://www.credly.com/badges/a9588d37-b2d8-4876-b792-68bee8e720c9"
+    },
+    {
+      "title": "Networking Basics",
+      "date": "Jan 13, 2026",
+      "url": "https://www.credly.com/badges/45e5ee19-38d9-45e9-a641-0fe9c9bb5471"
+    },
+    {
+      "title": "Endpoint Security",
+      "date": "Jan 18, 2026",
+      "url": "https://www.credly.com/badges/6299d18c-b757-4fe2-a82a-9e1debe5d145"
+    },
+    {
+      "title": "Networking Devices and Initial Configuration",
+      "date": "Jan 25, 2026",
+      "url": "https://www.credly.com/badges/0670002d-4270-41f6-87d1-430f6be1f6b1"
+    },
+    {
+      "title": "Network Defense",
+      "date": "Feb 02, 2026",
+      "url": "https://www.credly.com/badges/aacda6c6-e38b-4fd7-a98c-ef701c8a9535"
+    },
+    {
+      "title": "Cyber Threat Management",
+      "date": "Feb 02, 2026",
+      "url": "https://www.credly.com/badges/a6eec733-094d-46f2-8469-8fe5c36991ca"
+    }
+  ],
+  "voluntary": [
+    {
+      "role": "Voluntery Teacher",
+      "organization": "Kagwampungu Junior Secondary School",
+      "period": "Jan 2026 - Present",
+      "description": "Organize coding workshops for underprivileged youth, teaching basic programming and cybersecurity awareness. Used tools like Scratch and Python to make learning fun and accessible.",
+      "url": "https://maps.app.goo.gl/oYiqTbxrBvGmFej78"
+    },
+    {
+      "role": "Cybersecurity Student Mentor",
+      "organization": "University Cybersecurity Club",
+      "period": "2025 Jan - Present",
+      "description": "Guide junior students in cybersecurity concepts and .",
+      "url": "https://ke.linkedin.com/company/strathmore-university-cybersecurity-students-club"
+    },
+    {
+      "role": "Open Source Contributor",
+      "organization": "Various Projects",
+      "period": "2024 - Present",
+      "description": "Contribute to security tools and documentation for open-source projects.",
+      "url": "https://github.com/MawiraVictor"
+    }
+  ]
+}

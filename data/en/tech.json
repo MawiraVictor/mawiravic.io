@@ -1,0 +1,78 @@
+{
+  "row1": [
+    {
+      "icon": "devicon-linux-plain",
+      "name": "Linux"
+    },
+    {
+      "icon": "devicon-git-plain",
+      "name": "Git"
+    },
+    {
+      "icon": "devicon-github-original",
+      "name": "GitHub"
+    },
+    {
+      "icon": "devicon-php-plain",
+      "name": "PHP"
+    },
+    {
+      "icon": "devicon-mysql-plain",
+      "name": "MySQL"
+    },
+    {
+      "icon": "devicon-hugo-plain",
+      "name": "Hugo"
+    },
+    {
+      "icon": "devicon-c-plain",
+      "name": "C lang"
+    },
+    {
+      "icon": "devicon-docker-plain",
+      "name": "Docker"
+    },
+    {
+      "icon": "devicon-python-plain",
+      "name": "Python"
+    }
+  ],
+  "row2": [
+    {
+      "icon": "devicon-c-plain",
+      "name": "C lang"
+    },
+    {
+      "icon": "devicon-nagios-plain",
+      "name": "Nagios"
+    },
+    {
+      "icon": "devicon-bash-plain",
+      "name": "Bash"
+    },
+    {
+      "icon": "devicon-kubernetes-plain",
+      "name": "Kubernetes"
+    },
+    {
+      "icon": "devicon-amazonwebservices-plain",
+      "name": "AWS"
+    },
+    {
+      "icon": "devicon-nginx-original",
+      "name": "Nginx"
+    },
+    {
+      "icon": "devicon-apache-plain",
+      "name": "Apache"
+    },
+    {
+      "icon": "devicon-ubuntu-plain",
+      "name": "Ubuntu"
+    },
+    {
+      "icon": "devicon-debian-plain",
+      "name": "Debian"
+    }
+  ]
+}

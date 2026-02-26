@@ -1,0 +1,215 @@
+baseURL = "https://mawiravic.io"
+languageCode = 'en-us'
+title = 'Mawira Victor Web'
+theme = 'hugo-noir'
+
+# URL handling
+relativeURLs = false
+canonifyURLs = false
+
+# Taxonomy configuration
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[params]
+name = "Mawira Victor"
+location = "Nairobi, Kenya"
+description = "Computer Networks and Security student with a strong interest in network architecture, cybersecurity, and system hardening. Driven to develop secure, scalable, and efficient network solutions."
+profile_image = "/images/SecureChatLogin.png"
+discord = "mawiravictor"  # Your actual Discord username
+github = "https://github.com/MawiraVictor"
+github_username = "MawiraVictor"
+email = "victor.mawira@strathmore.edu"
+twitter = "https://twitter.com/mawiravictor"  # Your actual Twitter
+twitter_username = "mawiravictor"
+medium = "https://medium.com/@mawiravictor"
+linkedin = "https://www.linkedin.com/in/victor-mawira-841a672b0/"
+linkedin_username = "Victor Mawira"
+instagram = "https://instagram.com/mawiravictor"
+leetcode = "https://leetcode.com/mawiravictor"
+leetcode_username = "mawiravictor"
+monkeytype = "https://monkeytype.com/profile/mawiravictor"
+monkeytype_username = "mawiravictor"
+kaggle = "https://www.kaggle.com/mawiravictor"
+kaggle_username = "mawiravictor"
+
+[params.tech]
+  row1 = [
+    { icon = "devicon-python-plain", name = "Python" },
+    { icon = "devicon-go-plain", name = "Go" },
+    { icon = "devicon-javascript-plain", name = "JavaScript" },
+    { icon = "devicon-typescript-plain", name = "TypeScript" },
+    { icon = "devicon-react-original", name = "React" },
+    { icon = "devicon-vuejs-plain", name = "Vue.js" },
+    { icon = "devicon-html5-plain", name = "HTML5" },
+    { icon = "devicon-css3-plain", name = "CSS3" }
+  ]
+  row2 = [
+    { icon = "devicon-docker-plain", name = "Docker" },
+    { icon = "devicon-kubernetes-plain", name = "Kubernetes" },
+    { icon = "devicon-nginx-original", name = "Nginx" },
+    { icon = "devicon-postgresql-plain", name = "PostgreSQL" },
+    { icon = "devicon-redis-plain", name = "Redis" },
+    { icon = "devicon-git-plain", name = "Git" },
+    { icon = "devicon-hugo-plain", name = "Hugo" },
+    { icon = "devicon-tailwindcss-plain", name = "TailwindCSS" }
+  ]
+
+
+[[params.certifications]]
+title = "CCNA: Introduction to Networks"
+date = "Sep 10, 2025 Level: basics"
+url = "https://www.credly.com/badges/91f12221-89ca-4a3a-8ba3-4c84146b7145"
+
+[[params.certifications]]
+title = "Introduction to Cybersecurity"
+date = "Jan 05, 2026   Level: basics" 
+url = "https://www.credly.com/badges/a9588d37-b2d8-4876-b792-68bee8e720c9"
+
+[[params.certifications]]
+title = "Networking Basics"
+date = "Jan 13 2026 Level: basics" 
+url = "https://www.credly.com/badges/45e5ee19-38d9-45e9-a641-0fe9c9bb5471"
+
+ [[params.certifications]]
+title = "Endpoint Security Level: basics"
+date = "Jan 18, 2026 Level: basics" 
+url = "https://www.credly.com/badges/6299d18c-b757-4fe2-a82a-9e1debe5d145"
+
+
+[[params.certifications]]
+title = "Networking Devices and Initial Configuration"
+date = "Jan 25, 2026 Level: basics" 
+url = "https://www.credly.com/badges/0670002d-4270-41f6-87d1-430f6be1f6b1"
+
+[[params.certifications]]
+title = "Network Defense"
+date = "Feb 02, 2026 Level: basics" 
+url = "https://www.credly.com/badges/aacda6c6-e38b-4fd7-a98c-ef701c8a9535"
+
+[[params.certifications]]
+title = "Cyber Threat Management"
+date = "Feb 02, 2026 Level: basics" 
+url = "https://www.credly.com/badges/a6eec733-094d-46f2-8469-8fe5c36991ca"
+
+[[params.experience]]
+company = "Lorem Technologies"
+role = "AI Research Engineer"
+period = "Jan 2023 - Dec 2023"
+logo = "/images/company/lorem.png"
+description = "Ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore."
+responsibilities = [
+    "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "Ut enim ad minim veniam, quis nostrud exercitation",
+    "Duis aute irure dolor in reprehenderit in voluptate",
+    "Excepteur sint occaecat cupidatat non proident"
+]
+
+[[params.blogs]]
+title = "Damn Vulnerable Web Application"
+date = "Feb 02, 2026"
+summary = "Sed ut perspiciahgvjvjvjvhvjhvjhvtis unde omnis iste natus error sit voluptatem."
+tags = ["Lorem", "Ipsum", "Dolor"]
+content = """
+Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit...
+"""
+link = "https://medium.com/@loremipsum/lorem-systems"
+
+[[params.blogs]]
+title = "The Future of Dolor"
+date = "2025-02-28"
+summary = "At vero eos et accusamus et iusto odio dignissimos ducimus."
+tags = ["Sit", "Amet", "Consectetur"]
+content = """
+Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis...
+"""
+link = "https://medium.com/@loremipsum/future-dolor"
+
+[[params.blogs]]
+title = "Adipiscing: A Practical Guide"
+date = "2025-02-10"
+summary = "Nam libero tempore, cum soluta nobis est eligendi optio."
+tags = ["Elit", "Tempor", "Guide"]
+content = """
+Et harum quidem rerum facilis est et expedita distinctio...
+"""
+link = "https://medium.com/@loremipsum/adipiscing-guide"
+
+[[params.blogs]]
+title = "Optimizing Incididunt"
+date = "2025-01-20"
+summary = "Temporibus autem quibusdam et aut officiis debitis."
+tags = ["Labore", "Dolore", "Magna"]
+content = """
+Itaque earum rerum hic tenetur a sapiente delectus...
+"""
+link = "https://medium.com/@loremipsum/optimizing-incididunt"
+
+[[params.blogs]]
+title = "Aliqua: A Comprehensive Guide"
+date = "2024-12-15"
+summary = "Quis autem vel eum iure reprehenderit qui in ea voluptate."
+tags = ["Ut", "Enim", "Minim"]
+content = """
+Nisi ut aliquid ex ea commodi consequatur quis autem...
+"""
+link = "https://medium.com/@loremipsum/aliqua-guide"
+
+[[params.blogs]]
+title = "Veniam in Practice"
+date = "2024-11-20"
+summary = "Duis aute irure dolor in reprehenderit in voluptate velit."
+tags = ["Esse", "Cillum", "Dolore"]
+content = """
+Excepteur sint occaecat cupidatat non proident...
+"""
+link = "https://medium.com/@loremipsum/veniam-practice"
+
+[[params.blogs]]
+title = "Fugiat for Systems"
+date = "2024-10-25"
+summary = "Sunt in culpa qui officia deserunt mollit anim id est laborum."
+tags = ["Nulla", "Pariatur", "Systems"]
+content = """
+Lorem ipsum dolor sit amet, consectetur adipiscing elit...
+"""
+link = "https://medium.com/@loremipsum/fugiat-systems"
+
+[[params.blogs]]
+title = "Best Practices in Consectetur"
+date = "2024-09-30"
+summary = "Sed do eiusmod tempor incididunt ut labore et dolore magna."
+tags = ["Best", "Practices", "Guide"]
+content = """
+Ut enim ad minim veniam, quis nostrud exercitation...
+"""
+link = "https://medium.com/@loremipsum/consectetur-practices"
+
+[[params.voluntary]]
+role = "voluntary Teacher"
+organization = "Kagwampungu Primary school"
+period = "Jan 2026 - Present"
+description = "Organize coding workshops for underprivileged youth, teaching basic programming and cybersecurity awareness. Used tools like Scratch and Python to make learning fun and accessible."
+
+[menu]
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 1
+  [[menu.main]]
+    name = "Experience"
+    url = "/experience/"
+    weight = 2
+  [[menu.main]]
+    name = "Projects"
+    url = "/projects/"
+    weight = 3
+  [[menu.main]]
+    name = "Blogs"
+    url = "/blogs/"
+    weight = 4
+  [[menu.main]]
+    name = "Contact Me"
+    url = "/contact/"
+    weight = 5

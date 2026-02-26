@@ -1,0 +1,11 @@
+{
+  "projects": [
+    {
+      "title": "SecureChatApp",
+      "description": "The Secure Chat Application is a real-time messaging platform that implements end-to-end encryption using standard cryptographic protocols. Built with Python and Tkinter, this application provides secure communication channels between users.",
+      "tech": "Python, SQL, bcrypt, pycryptodome, RSA, AES-256",
+      "image": "/images/SecureChatLogin.png",
+      "link": "https://github.com/MawiraVictor/SecureChatApp"
+    }
+  ]
+}
