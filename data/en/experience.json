@@ -15,9 +15,9 @@
     },
     {
       "company": "SecureChatApp",
-      "role": "Independent Developer",
+      "role": "Collaborative Developer",
       "period": "Nov 2024 - Present",
-      "description": "Building an end-to-end encrypted messaging application from scratch.",
+      "description": "Building an end-to-end encrypted messaging application from scratch with other developers.",
       "responsibilities": [
         "Implemented RSA and AES-256 encryption for secure message transmission",
         "Designed database schema for user credentials and encrypted message storage",
@@ -30,8 +30,8 @@
     {
       "company": "CTF Team",
       "role": "Competitor & Security Enthusiast",
-      "period": "Sep 2024 - Present",
-      "description": "Participate in Capture The Flag competitions to practice real-world security skills.",
+      "period": "Jan 2025 - Present",
+      "description": "Participate in Capture The Flag competitions and virtual labs to practice real-world security skills.",
       "responsibilities": [
         "Solved challenges in web exploitation, cryptography, and network forensics",
         "Collaborated with team members on complex problems during 24-hour competitions",
