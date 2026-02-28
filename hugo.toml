@@ -73,7 +73,7 @@ date = "Jan 13 2026 Level: basics"
 url = "https://www.credly.com/badges/45e5ee19-38d9-45e9-a641-0fe9c9bb5471"
 
  [[params.certifications]]
-title = "Endpoint Security Level: basics"
+title = "Endpoint Security"
 date = "Jan 18, 2026 Level: basics" 
 url = "https://www.credly.com/badges/6299d18c-b757-4fe2-a82a-9e1debe5d145"
 
@@ -85,12 +85,12 @@ url = "https://www.credly.com/badges/0670002d-4270-41f6-87d1-430f6be1f6b1"
 
 [[params.certifications]]
 title = "Network Defense"
-date = "Feb 02, 2026 Level: basics" 
+date = "Feb 02, 2026 Level: Intermediate" 
 url = "https://www.credly.com/badges/aacda6c6-e38b-4fd7-a98c-ef701c8a9535"
 
 [[params.certifications]]
 title = "Cyber Threat Management"
-date = "Feb 12, 2026 Level: basics" 
+date = "Feb 12, 2026 Level: Intermediate " 
 url = "https://www.credly.com/badges/a6eec733-094d-46f2-8469-8fe5c36991ca"
 
 [[params.voluntary]]
