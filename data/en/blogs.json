@@ -3,7 +3,7 @@
     {
       "title": "Understanding Threads in Operating Systems In A simplified Form",
       "date": "February 28, 2026",
-      "summary": "A comprehensive guide to setting up and using DVWA for learning web application security testing and ethical hacking techniques. Perfect for beginners in cybersecurity.",
+      "summary": "An easy-to-understand explanation of threads in operating systems, covering their purpose, how they work, and their role in concurrency and multitasking.",
       "tags": ["Operating Systems", "Threads", "Concurrency", "Computer Architecture"],
       "link": "https://medium.com/@vickmawira66/understanding-threads-in-operating-systems-in-a-simplified-form-c8afdfef448e"
     },
@@ -13,13 +13,6 @@
       "summary": "A comprehensive guide to setting up and using DVWA for learning web application security testing and ethical hacking techniques. Perfect for beginners in cybersecurity.",
       "tags": ["Security", "Penetration Testing", "DVWA", "Web Security", "Ethical Hacking"],
       "link": "https://medium.com/@vickmawira66/damn-vulnerable-web-application-dvwa-setup-on-local-machine-4d773a562a23"
-    },
-    {
-      "title": "Understanding Threads in Operating Systems In A simplified Form",
-      "date": "February 28, 2026",
-      "summary": "A comprehensive guide to setting up and using DVWA for learning web application security testing and ethical hacking techniques. Perfect for beginners in cybersecurity.",
-      "tags": ["Operating Systems", "Threads", "Concurrency", "Computer Architecture"],
-      "link": "https://medium.com/@vickmawira66/understanding-threads-in-operating-systems-in-a-simplified-form-c8afdfef448e"
     },
     {
       "title": "Understanding SQL Injection: A Practical Gui",
