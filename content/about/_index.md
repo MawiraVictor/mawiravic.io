@@ -4,7 +4,7 @@ date: 2024-01-01
 draft: false
 ---
 
-# Mawira Victor
+Mawira Victor
 
 I am a Computer Networks and Security student with a focused interest in network architecture, cybersecurity, and system hardening. My goal is to design and implement secure, scalable, and efficient network solutions.
 
