@@ -1,6 +1,14 @@
 {
   "blogs": [
     {
+      "title": "Understanding SQL Injection: A Practical Guide",
+      "date": "March 1, 2026",
+      "summary": "Deep dive into SQL injection vulnerabilities, how they work, and how to prevent them in your applications.",
+      "tags": ["SQL", "Security", "Database", "Injection"],
+      "link": "https://medium.com/@vickmawira66/understanding-sql-injection-a-practical-guide-on-dvwa-1d07ec7ff3ad",
+      "image": "/images/blogs/sql-injection.jpg"
+    },
+    {
       "title": "Understanding Threads in Operating Systems In A simplified Form",
       "date": "February 28, 2026",
       "summary": "An easy-to-understand explanation of threads in operating systems, covering their purpose, how they work, and their role in concurrency and multitasking.",
@@ -14,14 +22,7 @@
       "tags": ["Security", "Penetration Testing", "DVWA", "Web Security", "Ethical Hacking"],
       "link": "https://medium.com/@vickmawira66/damn-vulnerable-web-application-dvwa-setup-on-local-machine-4d773a562a23"
     },
-    {
-      "title": "Understanding SQL Injection: A Practical Guide",
-      "date": "March 1, 2026",
-      "summary": "Deep dive into SQL injection vulnerabilities, how they work, and how to prevent them in your applications.",
-      "tags": ["SQL", "Security", "Database", "Injection"],
-      "link": "https://medium.com/@vickmawira66/understanding-sql-injection-a-practical-guide-on-dvwa-1d07ec7ff3ad",
-      "image": "/images/blogs/sql-injection.jpg"
-    },
+    
     {
       "title": "Network Security Basics Every Student Should Know",
       "date": "Comming Soon",
