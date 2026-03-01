@@ -16,7 +16,7 @@
     },
     {
       "title": "Understanding SQL Injection: A Practical Guide",
-      "date": "Comming Soon",
+      "date": "March 1, 2026",
       "summary": "Deep dive into SQL injection vulnerabilities, how they work, and how to prevent them in your applications.",
       "tags": ["SQL", "Security", "Database", "Injection"],
       "link": "https://medium.com/@vickmawira66/understanding-sql-injection-a-practical-guide-on-dvwa-1d07ec7ff3ad",
