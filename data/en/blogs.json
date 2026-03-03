@@ -24,11 +24,11 @@
     },
     
     {
-      "title": "Network Security Basics Every Student Should Know",
-      "date": "Coming Soon",
-      "summary": "Essential network security concepts for computer science students, including firewalls, IDS/IPS, and secure protocols.",
-      "tags": ["Networking", "Security", "Basics"],
-      "link": "https://medium.com/@vickmawira66",
+      "title": "Hacking DVWA: A Deep Dive into Reflected and Stored XSS",
+      "date": "March 3, 2026",
+      "summary": "Cross-Site Scripting (XSS) remains one of the most common and dangerous vulnerabilities in web applications. It occurs when an application takes untrusted data and sends it to a web browser without proper validation or escaping, allowing attackers to execute malicious scripts in a victim’s browser.",
+      "tags": ["Reflected (XSS)", "Security", "Stored (XSS)", "Web Application Security"],
+      "link": "https://medium.com/@vickmawira66/hacking-dvwa-a-deep-dive-into-reflected-and-stored-xss-dacb8a2b3c81",
       "image": "/images/blogs/network-security.jpg"
     },
     {
