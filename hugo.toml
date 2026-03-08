@@ -1,4 +1,4 @@
-baseURL = "https://mawiravic.io"
+baseURL = 'https://mawiravictor.github.io/mawiravic.io/'
 languageCode = 'en-us'
 title = 'Mawira Victor Web'
 theme = 'hugo-noir'

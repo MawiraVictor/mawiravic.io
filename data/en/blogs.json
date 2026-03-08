@@ -1,6 +1,13 @@
 {
   "blogs": [
     {
+      "title": "Building GUI Applications with C and GTK: A Week of Learning",
+      "date": "March 8, 2026",
+      "summary": "A week-long journey transforming a console-based banking system into a professional GUI application using C and GTK 3. Details the complete process from setting up MSYS2 on Windows, designing interfaces with Glade, connecting signals to C functions, to debugging common pitfalls like OneDrive permission issues and widget identification errors. Offers practical lessons for developers seeking to add graphical interfaces to their C applications.",
+      "tags": ["GTK", "Security", "GUI Development", "Glade", "Desktop Applications","MSYS2"],
+      "link": "https://medium.com/@vickmawira66/building-gui-applications-with-c-and-gtk-a-week-of-learning-90dbe19f9058"
+    },
+    {
       "title": "Understanding SQL Injection: A Practical Guide",
       "date": "March 1, 2026",
       "summary": "Deep dive into SQL injection vulnerabilities, how they work, and Practice your skills on vulnerable applications (DVWA).",
