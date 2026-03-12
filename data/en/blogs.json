@@ -1,12 +1,27 @@
 {
   "blogs": [
     {
+      "title": " Reverse Shells vs. Bind Shells ",
+      "date": "March 12, 2026",
+      "summary": "This Blog explains the fundamental differences between bind shells and reverse shells in cybersecurity, using Netcat as a primary example. While bind shells require the attacker to connect to a listening port on the victim's machine, reverse shells force the victim to initiate the connection to the attacker. Consequently, reverse shells are the preferred method for bypassing modern firewall security controls. ",
+      "tags": ["Security", "Reverse Shells", "Bind Shells", "CyberSecurity","Ethical Hacking"],
+      "link": "https://medium.com/@vickmawira66/reverse-shells-vs-bind-shells-8dc09980e8c1"
+    },
+    {
       "title": "Building GUI Applications with C and GTK: A Week of Learning",
       "date": "March 8, 2026",
       "summary": "A week-long journey transforming a console-based banking system into a professional GUI application using C and GTK 3. Details the complete process from setting up MSYS2 on Windows, designing interfaces with Glade, connecting signals to C functions, to debugging common pitfalls like OneDrive permission issues and widget identification errors. Offers practical lessons for developers seeking to add graphical interfaces to their C applications.",
       "tags": ["GTK", "Security", "GUI Development", "Glade", "Desktop Applications","MSYS2"],
       "link": "https://medium.com/@vickmawira66/building-gui-applications-with-c-and-gtk-a-week-of-learning-90dbe19f9058"
     },
+    {
+      "title": "Hacking DVWA: A Deep Dive into Reflected and Stored XSS",
+      "date": "March 3, 2026",
+      "summary": "Cross-Site Scripting (XSS) remains one of the most common and dangerous vulnerabilities in web applications. It occurs when an application takes untrusted data and sends it to a web browser without proper validation or escaping, allowing attackers to execute malicious scripts in a victim’s browser.",
+      "tags": ["Reflected (XSS)", "Security", "Stored (XSS)", "Web Application Security"],
+      "link": "https://medium.com/@vickmawira66/hacking-dvwa-a-deep-dive-into-reflected-and-stored-xss-dacb8a2b3c81",
+      "image": "/images/blogs/network-security.jpg"
+    },    
     {
       "title": "Understanding SQL Injection: A Practical Guide",
       "date": "March 1, 2026",
@@ -28,15 +43,6 @@
       "summary": "A comprehensive guide to setting up and using DVWA for learning web application security testing and ethical hacking techniques. Perfect for beginners in cybersecurity.",
       "tags": ["Security", "Penetration Testing", "DVWA", "Web Security", "Ethical Hacking"],
       "link": "https://medium.com/@vickmawira66/damn-vulnerable-web-application-dvwa-setup-on-local-machine-4d773a562a23"
-    },
-    
-    {
-      "title": "Hacking DVWA: A Deep Dive into Reflected and Stored XSS",
-      "date": "March 3, 2026",
-      "summary": "Cross-Site Scripting (XSS) remains one of the most common and dangerous vulnerabilities in web applications. It occurs when an application takes untrusted data and sends it to a web browser without proper validation or escaping, allowing attackers to execute malicious scripts in a victim’s browser.",
-      "tags": ["Reflected (XSS)", "Security", "Stored (XSS)", "Web Application Security"],
-      "link": "https://medium.com/@vickmawira66/hacking-dvwa-a-deep-dive-into-reflected-and-stored-xss-dacb8a2b3c81",
-      "image": "/images/blogs/network-security.jpg"
     },
     {
       "title": "Getting Started with Wireshark for Network Analysis",
