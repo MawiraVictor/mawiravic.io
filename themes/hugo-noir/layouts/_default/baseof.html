@@ -103,9 +103,26 @@
             .tech-slide {
                 float: left;
             }
+
+
+            html {
+                height: 100%;
+            }
+
+            body {
+                display: flex;
+                flex-direction: column;
+                min-height: 100vh;
+                margin: 0;
+            }
+
+            main {
+                flex: 1;
+            }
+            
         </style>
     </head>
-    <body class="min-h-screen bg-bg-primary-light dark:bg-bg-primary-dark text-text-primary-light dark:text-text-primary-dark">
+    <body class="bg-bg-primary-light dark:bg-bg-primary-dark text-text-primary-light dark:text-text-primary-dark">
         {{ partial "header" . }}
         <main>
             {{ block "main" . }}{{ end }}
