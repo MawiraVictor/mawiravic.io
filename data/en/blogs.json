@@ -1,6 +1,13 @@
 {
   "blogs": [
     {
+      "title": "Pivoting with Metasploit: A Beginner’s Guide to Network Pivoting",
+      "date": "April 4, 2026",
+      "summary": "The Golden Rule of Pivoting:For pivoting to work, the compromised host must be connected to two or more networks . Think of it as a bridge — the compromised machine sits between you and your target.",
+      "tags": ["Pivoting", "Security", "CyberSecurity", "Student","Penetration Testing"],
+      "link": "https://medium.com/@vickmawira66/pivoting-with-metasploit-a-beginners-guide-to-network-pivoting-a263fd7c3283"
+    },
+    {
       "title": " Mastering Git: What I Learned (Part 1) ",
       "date": "March 15, 2026",
       "summary": "In this introductory guide, Git is outlined as an essential version control system for tracking project history and facilitating collaboration. Key concepts, including configuring user details, managing file states through staging, and creating snapshots with commit messages, are covered to help developers organize their workflow. ",
